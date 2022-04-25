@@ -1,0 +1,11 @@
+C:\Users\fanti\source\repos\planar-four-bar-linkage\planar-four-bar-linkage\bin\Debug\planar-four-bar-linkage.exe.config
+C:\Users\fanti\source\repos\planar-four-bar-linkage\planar-four-bar-linkage\bin\Debug\planar-four-bar-linkage.exe
+C:\Users\fanti\source\repos\planar-four-bar-linkage\planar-four-bar-linkage\bin\Debug\planar-four-bar-linkage.pdb
+C:\Users\fanti\source\repos\planar-four-bar-linkage\planar-four-bar-linkage\obj\Debug\planar-four-bar-linkage.csproj.AssemblyReference.cache
+C:\Users\fanti\source\repos\planar-four-bar-linkage\planar-four-bar-linkage\obj\Debug\planar-four-bar-linkage.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanti\source\repos\planar-four-bar-linkage\planar-four-bar-linkage\obj\Debug\planar_four_bar_linkage.MainForm.resources
+C:\Users\fanti\source\repos\planar-four-bar-linkage\planar-four-bar-linkage\obj\Debug\planar_four_bar_linkage.Properties.Resources.resources
+C:\Users\fanti\source\repos\planar-four-bar-linkage\planar-four-bar-linkage\obj\Debug\planar-four-bar-linkage.csproj.GenerateResource.cache
+C:\Users\fanti\source\repos\planar-four-bar-linkage\planar-four-bar-linkage\obj\Debug\planar-four-bar-linkage.csproj.CoreCompileInputs.cache
+C:\Users\fanti\source\repos\planar-four-bar-linkage\planar-four-bar-linkage\obj\Debug\planar-four-bar-linkage.exe
+C:\Users\fanti\source\repos\planar-four-bar-linkage\planar-four-bar-linkage\obj\Debug\planar-four-bar-linkage.pdb
